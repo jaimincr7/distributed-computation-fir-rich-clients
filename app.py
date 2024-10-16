@@ -39,8 +39,10 @@ def compute_cosine_similarity(embedding1, embedding2):
 st.title("Face Recognition")
 
 st.write(
+    "This project is dedicated on research regarding the Distributed"
+    "Machine Computation for Facial Image Recognition for Rich Clients."
     "Upload two images to compute their cosine similarity using a "
-    "pre-trained facial recognition model."
+    "custom build facial recognition model."
 )
 
 # Upload two images
