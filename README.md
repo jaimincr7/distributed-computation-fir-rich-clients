@@ -51,11 +51,10 @@ This project focuses on **Facial Image Recognition** using a **Distributed Machi
 
 ### Project Structure
 ```bash
-├── app.py                # Streamlit app for facial recognition
-├── requirements.txt       # Required dependencies
-├── models/               # Pre-trained models for facial recognition
-├── static/               # Static assets like images
-└── templates/            # HTML templates for the front-end interface
+├── README.md                             # Project documentation
+├── app.py                                # Streamlit application for facial recognition
+├── distributed_facial_recognition.ipynb  # Jupyter notebook for facial recognition model training or analysis
+├── requirements.txt                      # List of required dependencies for the project
 ```
 
 This outlines the main files and folders for the project. If you need to add more details or specific folders/files, feel free to adjust it accordingly. Let me know if you need more information!
