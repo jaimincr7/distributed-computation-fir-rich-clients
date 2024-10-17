@@ -1,0 +1,44 @@
+1. What is distributed computing?
+
+A) A single computer solving problems.
+B) Multiple computers sharing components to improve efficiency and performance.
+C) A system where all data is processed on a single server.
+D) All of the above.
+
+Answer: B
+
+2. Which library was used to implement parallel training in the project?
+
+A) TensorFlow
+B) PyTorch
+C) Dask
+D) Scikit-learn
+
+Answer: C
+
+3. What dataset was used in the research for facial image recognition?
+
+A) CIFAR-10
+B) Labeled Faces in the Wild (LFW)
+C) MNIST
+D) ImageNet
+
+Answer: B
+
+4. What is the primary privacy benefit of the proposed distributed machine learning model using rich clients?
+
+A) Raw data is shared with the cloud for further analysis.
+B) Personal data remains on edge devices, and only (check points)/(training weights) are shared with servers.
+C) Edge devices perform no processing and send all data to the server.
+D) The cloud stores all user-specific data securely.
+
+Answer: B
+
+5. In the experimental setup, how does the model ensure that training accuracy for personal data is not compromised when using edge servers?
+
+A) By sharing raw images with the server.
+B) By comparing the accuracy of checkpoint files on the edge device with those from the server and selecting the best result.
+C) By using cloud servers to process sensitive data.
+D) By stopping the training on edge devices once it is transferred to the server.
+
+Answer: B
