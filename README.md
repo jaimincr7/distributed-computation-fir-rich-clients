@@ -3,8 +3,19 @@
 
 ## Team Name: Sync Squad
 
+### Project Memebrs
+1. Jaimin Vyas
+2. Aniket Patel
+3. Arjun Vaghasiya
+4. Yagnik Beladiya
+
+### Link: [Live Project Link](https://distributed-computation-fir-rich-clients-bbkmvjs6oqwuyhkeeyaet.streamlit.app/) 
+
 ### Project Overview
 This project focuses on **Facial Image Recognition** using a **Distributed Machine Learning** approach. It leverages the power of **rich clients** for improved performance and scalability. The project is designed to demonstrate how distributed computing techniques can be used to train and deploy models efficiently.
+
+### Workflow
+![Workflow](workflow.jpeg)
 
 ### Key Features
 - **Facial Recognition**: Utilizes machine learning algorithms to identify and verify faces from images.
